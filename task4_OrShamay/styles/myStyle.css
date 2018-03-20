@@ -1,0 +1,579 @@
+body {
+    direction: rtl;
+    margin: 0 auto;
+    width: 960px;
+    background-image: url('../images/grey-big-graph-lines-937178.png');
+}
+
+#container {
+    font-size: 18pt;
+    height: 1210px;
+    margin: 0px 0px;
+    padding: 21px 0px 3px 0px;
+    text-align: center;
+    /*background: #49536b;*/
+    /*background: #8ca0b9;*/
+    /*background: #dfe0e3;*/
+    background: #5b647a;
+    color: white;
+    
+    
+}
+
+
+#style h2 {
+    text-shadow: -2px -1px 2px #404040;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#style p {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16pt;
+}
+
+#me {
+    background-image: url(../images/me2.jpg);
+    background-repeat: no-repeat;
+    background-size: 961px;
+    height: 331px;
+    width: 999px;
+    position: relative;
+    margin-top: 0px;
+    right: -4%;
+}
+
+    /*header*/
+.name {
+    text-shadow: -2px 2px 3px #303030;
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    font-size: 50pt;
+    position: relative;
+    right: -5%;
+    padding-top: 103px;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+/*//תפריט ניווט//*/
+ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    float: right;
+    position: relative;
+    right: 3.8%;
+    margin-top: 162px;
+    margin-bottom: 25px;
+}
+
+    nav ul li a {
+        display: block;
+        background-color: #8c96ae;
+        color: white;
+        width: 240px;
+        height: 42px;
+        padding-top: 11px;
+        text-decoration: none;
+        text-align: center;
+    }
+
+        nav ul li a:hover {
+            background-color: #ed519b;
+        }
+
+        nav ul li a:active {
+            background-color: #fd99c8;
+        }
+
+ul {
+    list-style-type: none;
+}
+
+
+/*about*/
+#about {
+    position: relative;
+    right: 0%;
+    margin-top: 50px;
+    font-size: 20pt;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 15px;
+   
+}
+
+#about2 {
+       background-size: 600px;
+    background-repeat: none;
+    position: relative;
+    right: 0%;
+    margin-top: 50px;
+
+}
+
+div.image1 {
+    content: url(../images/maja.jpg);
+    height: 611px;
+    width: 405px;
+    margin: -2px;
+    margin-top: 26px;
+    position: relative;
+    right: 53%;
+}
+div.image2 {
+    content: url(../images/friends.jpg);
+    height: 300px;
+    width: 450px;
+    margin: 10px;
+    margin-top: -610px;
+    position: relative;
+    right: 4%;
+}
+
+
+div.image3 {
+    content: url(../images/parrot.jpg);
+    height: 300px;
+    width: 450px;
+    margin: 10px;
+    margin-top: 10px;
+    position: relative;
+    right: 4%;
+}
+
+
+
+
+/*education*/
+#h2school {
+    position: relative;
+    right: 0%;
+    margin-top: 50px;
+    font-size: 20pt;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 15px;
+}
+
+ul.no_bullet {
+    list-style-type: none;
+    padding-left: 900px;
+        margin-top: 30px;
+        position: relative;
+        right: 30%;
+}
+
+li.dot {
+    list-style-image: url('../images/dot.png');
+    
+      
+}
+
+
+#school {
+    font-size: 30pt;
+    position: relative;
+    right: 27%;
+    margin-top: 67px;
+    margin-bottom: 129px;
+    background-size: 350px;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 350px;
+    color: transparent;
+    background-image: url(../images/beit-yerach.jpg);
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+}
+
+    #school:hover {
+        font-size: 30pt;
+        position: relative;
+        right: 27%;
+        margin-top: 67px;
+        margin-bottom: 129px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding-top: 150px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        color: white;
+        height: 200px;
+        width: 350px;
+        -moz-transform: scale(1) rotate(7deg);
+        -webkit-transform: scale(1) rotate(7deg);
+        -o-transform: scale(1) rotate(7deg);
+        -ms-transform: scale(1) rotate(7deg);
+        transform: scale(1) rotate(7deg);
+        -webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
+        -ms-transition: all 1s ease-in;
+        -o-transition: all 1s ease-in;
+        transition: all 1s ease-in;
+    }
+
+
+
+
+/*career*/
+
+#career {
+    position: relative;
+    right: 0%;
+    margin-top: 50px;
+    font-size: 20pt;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 15px;
+}
+#student {
+    position: relative;
+    right: 10%;
+    margin-top: -210px;
+    margin-bottom:24px;
+    background-image: url(../images/student.jpg);
+    background-size: 350px;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 350px;
+    color: transparent;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+}
+
+
+    #student:hover {
+        font-size: 30pt;
+        position: relative;
+        right: 10%;
+        margin-top: -210px;
+        margin-bottom: 24px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding: 150px 20px 0px 20px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        color: white;
+        height: 200px;
+        width: 310px;
+        -moz-transform: scale(1) rotate(-6deg);
+        -webkit-transform: scale(1) rotate(-6deg);
+        -o-transform: scale(1) rotate(-6deg);
+        -ms-transform: scale(1) rotate(-6deg);
+        transform: scale(1) rotate(-6deg);
+        -webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
+        -ms-transition: all 1s ease-in;
+        -o-transition: all 1s ease-in;
+        transition: all 1s ease-in;
+    }
+
+
+
+#army {
+
+    position: relative;
+    right: 51%;
+    margin-top: 48px;
+    background-image: url(../images/army.jpg);
+    background-size: 350px;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 350px;
+    color: transparent;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+}
+
+
+    #army:hover {
+        position: relative;
+        right: 51%;
+        margin-top: 48px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding: 150px 20px 0px 20px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        font-size:30pt;
+        color: white;
+        height: 200px;
+        width: 310px;
+        -moz-transform: scale(1) rotate(7deg);
+        -webkit-transform: scale(1) rotate(7deg);
+        -o-transform: scale(1) rotate(7deg);
+        -ms-transform: scale(1) rotate(7deg);
+        transform: scale(1) rotate(7deg);
+        -webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
+        -ms-transition: all 1s ease-in;
+        -o-transition: all 1s ease-in;
+        transition: all 1s ease-in;
+    }
+
+
+/*hobbie*/
+
+#hubby {
+    position: relative;
+    right: 0%;
+    margin-top: 50px;
+    font-size: 20pt;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 15px;
+}
+
+
+    /*music*/
+#music {
+
+    position: relative;
+    right: 57%;
+    margin-top: 70px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    color: transparent;
+    background-image: url(../images/piano2.jpg);
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    -moz-transform: scale(1) rotate(-16deg);
+    -webkit-transform: scale(1) rotate(-16deg);
+    -o-transform: scale(1) rotate(-16deg);
+    -ms-transform: scale(1) rotate(-16deg);
+    transform: scale(1) rotate(-16deg);
+}
+
+    #music:hover {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 18pt;
+        position: relative;
+        right: 57%;
+        margin-top: 70px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding: 70px 30px 0px 30px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        color: white;
+        height: 180px;
+        width: 190px;
+        -moz-transform: scale(1) rotate(-16deg);
+        -webkit-transform: scale(1) rotate(-16deg);
+        -o-transform: scale(1) rotate(-16deg);
+        -ms-transform: scale(1) rotate(-16deg);
+        transform: scale(1) rotate(-16deg);
+        -webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
+        -ms-transition: all 1s ease-in;
+        -o-transition: all 1s ease-in;
+        transition: all 1s ease-in;
+    }
+ 
+/*photo*/
+#photo {
+    position: relative;
+    right: 15%;
+    margin-top: -220px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    color: transparent;
+    background-image: url(../images/photograph.jpg);
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    -moz-transform: scale(1) rotate(13deg);
+    -webkit-transform: scale(1) rotate(13deg);
+    -o-transform: scale(1) rotate(13deg);
+    -ms-transform: scale(1) rotate(13deg);
+    transform: scale(1) rotate(13deg);
+}
+
+    #photo:hover {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 18pt;
+        position: relative;
+        right: 15%;
+        margin-top: -220px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding: 80px 30px 0px 30px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        color: white;
+        height: 170px;
+        width: 190px;
+        -webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
+        -ms-transition: all 1s ease-in;
+        -o-transition: all 1s ease-in;
+        transition: all 1s ease-in;
+        -moz-transform: scale(1) rotate(13deg);
+        -webkit-transform: scale(1) rotate(13deg);
+        -o-transform: scale(1) rotate(13deg);
+        -ms-transform: scale(1) rotate(13deg);
+        transform: scale(1) rotate(13deg);
+    }
+
+/*animals*/
+#animals {
+    position: relative;
+    right: 51%;
+    margin-top: 34px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    color: transparent;
+    background-image: url(../images/animals2.jpg);
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    -moz-transform: scale(1) rotate(13deg);
+    -webkit-transform: scale(1) rotate(13deg);
+    -o-transform: scale(1) rotate(13deg);
+    -ms-transform: scale(1) rotate(13deg);
+    transform: scale(1) rotate(13deg);
+}
+
+    #animals:hover {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 18pt;
+        position: relative;
+        right: 51%;
+        margin-top: 34px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding: 90px 30px 0px 30px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        color: white;
+        height: 160px;
+        width: 190px;
+        -webkit-transition: all 1s ease-in;
+        -moz-transition: all 1s ease-in;
+        -ms-transition: all 1s ease-in;
+        -o-transition: all 1s ease-in;
+        transition: all 1s ease-in;
+        -moz-transform: scale(1) rotate(13deg);
+        -webkit-transform: scale(1) rotate(13deg);
+        -o-transform: scale(1) rotate(13deg);
+        -ms-transform: scale(1) rotate(13deg);
+        transform: scale(1) rotate(13deg);
+    }
+
+
+     /*bono*/
+#bono {
+    position: relative;
+    right: 14%;
+    margin-top: -206px;
+    margin-bottom: 6px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 250px;
+    color: transparent;
+    background-image: url(../images/bono.jpeg);
+    -webkit-transition: background 1s ease-in;
+    -moz-transition: background 1s ease-in;
+    -ms-transition: background 1s ease-in;
+    -o-transition: background 1s ease-in;
+    transition: background 1s ease-in;
+    -moz-transform: scale(1) rotate(-16deg);
+    -webkit-transform: scale(1) rotate(-16deg);
+    -o-transform: scale(1) rotate(-16deg);
+    -ms-transform: scale(1) rotate(-16deg);
+    transform: scale(1) rotate(-16deg);
+}
+
+    #bono:hover {
+        font-family: 'Varela Round', sans-serif;
+        font-size: 18pt;
+        position: relative;
+        right: 14%;
+        margin-top: -206px;
+        margin-bottom: 6px;
+        text-shadow: -1px 1px 2px #303030;
+        border: 1px solid black;
+        padding: 80px 10px 0px 10px;
+        background-image: none;
+        background-color: #8a94ad;
+        text-align: center;
+        color: white;
+        height: 170px;
+        width: 230px;
+        background-image: url('../images/heart.png');
+        background-size: 70px;
+        background-position-x: 98px;
+        background-position-y: 140px;
+        -moz-transform: scale(1) rotate(-16deg);
+        -webkit-transform: scale(1) rotate(-16deg);
+        -o-transform: scale(1) rotate(-16deg);
+        -ms-transform: scale(1) rotate(-16deg);
+        transform: scale(1) rotate(-16deg);
+    }
+
+  
+
+/*contact*/
+#last {
+    position: absolute;
+    right: 46%;
+    padding: 0px 0px 0px 0px;
+    margin: 40px 0px 0px 0px;
+}
+
+
+#facebook {
+    position: absolute;
+    right: 157%;
+    margin-top: -29px;
+    padding: 35px 0px 0px 0px;
+    background-image: url(../images/facebook.png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 42px;
+    color: transparent;
+}
+
+
+#instagram {
+    position: absolute;
+    right: 109%;
+    margin-top: -30px;
+    padding: 37px 0px 0px 0px;
+    background-size: 36px;
+    background-image: url(../images/instagram.png);
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 39px;
+    color: transparent;
+}
+
