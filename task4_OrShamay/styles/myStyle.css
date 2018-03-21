@@ -55,7 +55,7 @@ body {
     margin-top: 5px;
 }
 
-/*//úôøéè ðéååè//*/
+/*//×ª×¤×¨×™×˜ × ×™×•×•×˜//*/
 ul {
     list-style: none;
 }
@@ -564,12 +564,40 @@ li.dot {
 }
 
 
+#facebook:hover  {
+    position: absolute;
+    right: 157%;
+    margin-top: -29px;
+    padding: 35px 0px 0px 0px;
+    background-image: url(../images/facebook.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    height: 42px;
+    width: 42px;
+    color: transparent;
+   
+}
+
+
 #instagram {
     position: absolute;
     right: 109%;
     margin-top: -30px;
     padding: 37px 0px 0px 0px;
     background-size: 36px;
+    background-image: url(../images/instagram.png);
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 39px;
+    color: transparent;
+}
+
+#instagram:hover {
+    position: absolute;
+    right: 109%;
+    margin-top: -30px;
+    padding: 37px 0px 0px 0px;
+    background-size:40px;
     background-image: url(../images/instagram.png);
     background-repeat: no-repeat;
     height: 39px;
