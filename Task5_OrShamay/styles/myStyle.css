@@ -1,0 +1,201 @@
+body {
+    direction: rtl;
+    font-family: Calibri;
+    font-size: 12pt;
+    background-image: url('../images/computer5.jpg');
+    background-repeat: no-repeat;
+    background-size: 1951px;
+    
+    background-position-x: center;
+    margin: 0px auto;
+}
+
+#container {
+    width: 960px;
+    margin: 0px auto;
+}
+#hit {
+    margin: -10px 23px;
+}
+
+#ba {
+    color: white;
+    position: relative;
+    margin-top: -71px;
+    margin-right: 36%;
+    font-size: 39pt;
+    text-shadow: 2px 2px 5px black;
+    ;
+}
+#tlm {
+    color: #fcc42c;
+    position: relative;
+    margin-top: 5px;
+    margin-right: 28%;
+    font-size: 51pt;
+    text-shadow: 2px 2px 5px black;
+}
+#short {
+    color: #549d9d;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 38%;
+    font-size: 21pt;
+    font-weight: bold;
+}
+
+.what {
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 234px;
+    height: 123px;
+    padding: 11px 33px 10px 33px;
+    position: relative;
+    margin-top: 20px;
+    margin-right: 0%;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.what img {
+    position: relative;
+    margin-top: -15px;
+    margin-right: 49%;
+}
+
+    .what:hover {
+        font-size: 14pt;
+        border-radius: 25px;
+        background: rgba(255, 255, 255, 0.6);
+        width: 254px;
+        height: 133px;
+        padding: 11px 33px 10px 33px;
+        padding-bottom: 20px;
+        position: relative;
+        margin-top: 20px;
+        margin-right: 0%;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+   
+
+
+
+
+#learn {
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 234px;
+    height: 123px;
+    padding: 11px 38px;
+    position: relative;
+    margin-top: -144px;
+    margin-right: 34%;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+
+    #learn:hover {
+        font-size: 14pt;
+        border-radius: 25px;
+        background: rgba(255, 255, 255, 0.6);
+        width: 254px;
+        height: 163px;
+        padding: 11px 38px;
+        position: relative;
+        margin-top: -144px;
+        margin-right: 34%;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+#who {
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 252px;
+    height: 123px;
+    padding: 12px 33px;
+    position: relative;
+    margin-top: -145px;
+    margin-right: 69%;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+    #who:hover {
+        font-size: 14pt;
+        border-radius: 25px;
+        background: rgba(255, 255, 255, 0.6);
+        width: 272px;
+        height: 163px;
+        padding: 12px 33px;
+        position: relative;
+        margin-top: -145px;
+        margin-right: 69%;
+        -webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+    }
+
+form {
+    font-size: 16pt;
+    text-align: center;
+    border-radius: 25px;
+    background: rgba(216, 158, 0, 0.9);
+    width: 238px;
+    height: 239px;
+    padding: 21px 24px;
+    position: relative;
+    margin-top: 240px;
+    margin-right: 73%;
+
+
+    }
+#sign {
+    font-weight: bold;
+}
+
+footer {
+    color: black;
+    font-size: 14pt;
+    width: 165px;
+    height: 25px;
+    padding: 11px 18px;
+    position: relative;
+    margin-top: 5px;
+    margin-right: 37%;
+}
+
+a {
+    -webkit-transition: all 40ms ease-in-out;
+    -moz-transition: all 40ms ease-in-out;
+    -ms-transition: all 40ms ease-in-out;
+    -o-transition: all 40ms ease-in-out;
+    transition: all 40ms ease-in-out;
+}
+    a:hover {
+        font-size: 22px;
+        -webkit-transition: all 40ms ease-in-out;
+        -moz-transition: all 40ms ease-in-out;
+        -ms-transition: all 40ms ease-in-out;
+        -o-transition: all 40ms ease-in-out;
+        transition: all 40ms ease-in-out;
+    }
