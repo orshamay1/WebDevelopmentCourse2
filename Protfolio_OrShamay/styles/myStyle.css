@@ -108,7 +108,6 @@ right: 38%;}
 
 footer {
     position: relative;
-    right: -50%;
     display: inline;
     text-align: center;
     width: 1980px;
@@ -219,7 +218,7 @@ footer {
 
     /*úîåðåú îåâãìåú*/
 .israel_big {
-    width: 550px;
+    width: 530px;
     margin: 30px auto;
     box-shadow: 4px 4px 19px darkgrey;
     display: inline-black;
