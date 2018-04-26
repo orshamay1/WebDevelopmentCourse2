@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 
-/*ςξεγ αιϊ*/
+/*Γ²Γ®Γ¥Γ£ Γ΅Γ©ΓΊ*/
 
 #container {
     margin: 0 auto;
@@ -52,7 +52,7 @@ body {
 }
 
 
-/*ϊτψιθ πιεεθ*/
+/*ΓΊΓ΄ΓΈΓ©Γ¨ Γ°Γ©Γ¥Γ¥Γ¨*/
 #logo {
     margin: -17px 139px 0px 0px;
     left: 117%;
@@ -104,7 +104,7 @@ right: 38%;}
     text-decoration-style: solid;
 }
 
-        /*τεθψ*/
+        /*Γ΄Γ¥Γ¨ΓΈ*/
 
 footer {
     position: relative;
@@ -204,7 +204,7 @@ footer {
         margin: 0px 5px 0px 5px;
     }
 
-    /*ηζεψ μςξεγ ξϊξεπδ ξεβγμϊ*/
+    /*Γ§Γ¦Γ¥ΓΈ Γ¬Γ²Γ®Γ¥Γ£ Γ®ΓΊΓ®Γ¥Γ°Γ¤ Γ®Γ¥ΓΆΓ£Γ¬ΓΊ*/
 
 #back {
     color:black;
@@ -217,13 +217,12 @@ footer {
     }
 
 
-    /*ϊξεπεϊ ξεβγμεϊ*/
+    /*ΓΊΓ®Γ¥Γ°Γ¥ΓΊ Γ®Γ¥ΓΆΓ£Γ¬Γ¥ΓΊ*/
 .big_bck {
     background-color: whitesmoke;
-    width: 1920px;
-    height: 974px;
+    width: 960px;
+    height: 700px;
     position: relative;
-    right: -50%;
 }
 
 .israel_big {
@@ -244,7 +243,7 @@ footer {
 }
 
 
-/*70 μιωψΰμ*/
+/*70 Γ¬Γ©ΓΉΓΈΓ Γ¬*/
 #israel70bck {
     background-color: #D8A0B1;
     width: 1381px;
@@ -385,7 +384,7 @@ footer {
 
 
 
-/*τψειχθ ϊχωεψϊ ηζεϊιϊ*/
+/*Γ΄ΓΈΓ¥Γ©Γ·Γ¨ ΓΊΓ·ΓΉΓ¥ΓΈΓΊ Γ§Γ¦Γ¥ΓΊΓ©ΓΊ*/
 #noharbck {
     background-color: #9EBC5C;
     width: 1381px;
@@ -443,7 +442,7 @@ footer {
 }
 
 
-/*ΰπιξφιδ*/
+/*Γ Γ°Γ©Γ®Γ¶Γ©Γ¤*/
 #animate {
     background-color: #4D6D96;
     width: 1381px;
@@ -502,7 +501,7 @@ footer {
 
 
 
-/*τψεθψθ ςφξι*/
+/*Γ΄ΓΈΓ¥Γ¨ΓΈΓ¨ Γ²Γ¶Γ®Γ©*/
 #portrait_bck {
     background-color: #935D76;
     width: 1381px;
