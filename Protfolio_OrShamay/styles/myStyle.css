@@ -218,18 +218,14 @@ footer {
 
 
     /*úîåðåú îåâãìåú*/
-.big_bck {
-    background-color: white;
-}
-
 .israel_big {
     width: 550px;
     margin: 90px 641px 0px 0px;
     box-shadow: 4px 4px 19px darkgrey;
 }
 #nohar_big {
-    width: 900px;
-    margin: 84px 485px 0px 0px;
+    margin: 62px 182px 0px 12px;
+    width: 54%;
     box-shadow: 4px 4px 19px darkgrey;
 }
 
