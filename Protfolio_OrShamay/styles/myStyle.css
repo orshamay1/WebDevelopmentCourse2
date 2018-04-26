@@ -1,0 +1,556 @@
+body {
+    direction: rtl;
+
+    background-color: #FFFFFF;
+}
+
+/*עמוד בית*/
+
+#container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+    #container p, h1, h2, li {
+        font-family: 'Alef', sans-serif;
+            }
+
+   
+  #container header nav ul {
+        background-color: white;
+        width: 960px;
+        height: 27px;
+        position: relative;
+        padding-bottom: 50px;
+        align-items:center;
+        margin-right:-280px;
+       
+    }
+
+#home {
+       position: relative;
+    text-align: center;
+    display: block;
+    font-size: 40pt;
+    color: white;
+    margin: 0px -500px 0px 0px;
+    
+}
+
+
+#me2 {
+    margin: 1px 288px 0px 0px;
+    display: block;
+    width: 1381px;
+}
+#home_text p {
+    margin: -477px 481px 410px 0px;
+    font-size: 26px;
+    width: 652px;
+    display: block;
+    text-align: center;
+}
+
+
+/*תפריט ניווט*/
+#logo {
+    margin: -17px 139px 0px 0px;
+    left: 117%;
+    position: relative;
+}
+
+
+nav ul {
+    list-style: none;
+    background-color: white;
+    width: 1200px;
+    height: 30px;
+}
+nav ul li {
+    display: inline-block;
+    float: right;
+    position: relative;
+    padding-top: 20px;
+    margin-bottom: 10px;
+right: 38%;}
+
+    nav ul li a {
+        display: block;
+        color: black;
+        background-color: white;
+        width: 127px;
+        height: 30px;
+        position: relative;
+        right: 29%;
+        padding-top: 10px;
+        text-decoration: none;
+        text-align: center;
+        vertical-align: middle;
+    }
+        nav ul li a:hover {
+            text-decoration: underline;
+            position: relative;
+            right: 29%;
+        }
+
+        nav ul li a:active {
+            color: lightgrey;
+            position: relative;
+            right: 29%;
+        }
+
+#where {
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
+
+        /*פוטר*/
+
+footer {
+    position: relative;
+    right: -50%;
+    display: inline;
+    text-align: center;
+    width: 1980px;
+    height: 30px;
+}
+
+    footer ul {
+        list-style: none;
+        margin: 10px 0px 0px 0px;
+    }
+
+    footer ul li {
+        font-size: 14pt;
+        position: relative;
+        right: 0%;
+        display: inline-block;
+        position: relative;
+        padding-top: 10px;
+        text-align: center;
+        margin: 0px 0px 1px 5px;
+    }
+
+#text {
+    font-size: 16pt;
+    margin-top: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+    
+#gmail {
+    background-image: url('../images/gmail1.png');
+    color: transparent;
+    height: 40px;
+    width: 40px;
+    background-size: 40px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin: 0px 5px 0px 5px;
+}
+
+    #gmail:hover {
+        background-image: url('../images/gmail1.png');
+        color: transparent;
+        height: 50px;
+        width: 50px;
+        background-size: 50px;
+        display: inline-block;
+        background-repeat: no-repeat;
+        margin: 0px 5px 0px 5px;
+    }
+
+#facebook {
+    background-image: url('../images/facebook1.png');
+    color: transparent;
+    height: 30px;
+    width: 30px;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    margin: 0px 5px 0px 5px;
+}
+
+    #facebook:hover {
+        background-image: url('../images/facebook1.png');
+        color: transparent;
+        height: 40px;
+        width: 40px;
+        background-size: 40px;
+        background-repeat: no-repeat;
+        display: inline-block;
+        position: relative;
+        margin: 0px 5px 0px 5px;
+    }
+#instagram {
+    background-image: url('../images/instagram1.png');
+    color: transparent;
+    height: 31px;
+    width: 31px;
+    background-size: 31px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 0px 5px 0px 5px;
+}
+    #instagram:hover {
+        background-image: url('../images/instagram1.png');
+        color: transparent;
+        height: 41px;
+        width: 41px;
+        background-size: 41px;
+        background-repeat: no-repeat;
+        display: inline-block;
+        margin: 0px 5px 0px 5px;
+    }
+
+    /*חזור לעמוד מתמונה מוגדלת*/
+
+#back {
+    color:black;
+    font-size:12pt;
+
+}
+    #back:hover {
+        color: darkgray;
+        font-size: 12pt;
+    }
+
+
+    /*תמונות מוגדלות*/
+.big_bck {
+    background-color: whitesmoke;
+    width: 1920px;
+    height: 974px;
+    position: relative;
+    right: -50%;
+}
+
+.israel_big {
+    width: 550px;
+    margin: 90px 641px 0px 0px;
+    box-shadow: 4px 4px 19px darkgrey;
+}
+#nohar_big {
+    width: 900px;
+    margin: 84px 485px 0px 0px;
+    box-shadow: 4px 4px 19px darkgrey;
+}
+
+#portrait_big {
+    width: 960px;
+    margin: 200px 467px 0px 0px;
+    box-shadow: 4px 4px 19px darkgrey;
+}
+
+
+/*70 לישראל*/
+#israel70bck {
+    background-color: #D8A0B1;
+    width: 1381px;
+    height: 617px;
+    margin: 0px -211px 0px 0px;
+}
+
+    #israel70bck article {
+        margin: 1px -185px 0px 0px;
+    }
+#israel_white {
+    background-color: white;
+    width: 956px;
+    height: 307px;
+    margin: -4px 393px 0px 0px;
+    padding: 15px 0px 0px 0px;
+}
+
+
+#israel70bck h1 {
+    font-size: 26pt;
+    color: white;
+       text-align: center;
+    padding-top: 30px;
+    padding-right: 148px;
+ 
+}
+#israel70bck p {
+    font-size: 12pt;
+    color: white;
+    width: 690px;
+    text-align: justify;
+    padding-top: 20px;
+    padding-right: 350px;
+    margin: 0px 174px;
+}
+#israel70bck a{
+    color:transparent;
+}
+
+
+#sound {
+    margin: 26px 723px 30px 0px;
+    display: inline-block;
+}
+
+#israel1 {
+    margin: 0px 24px 0px 0px;
+    height: 290px;
+    display: inline-block;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+    #israel1:hover {
+        margin: -9px 17px 0px 0px;
+        height: 310px;
+        display: inline-block;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+
+#israel2 {
+    margin: 0px 24px 0px 0px;
+    height: 290px;
+    display: inline-block;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+    #israel2:hover {
+        margin: -9px 17px 0px 0px;
+        height: 310px;
+        display: inline-block;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+
+#israel3 {
+    margin: 0px 24px 0px 0px;
+    height: 290px;
+    display: inline-block;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+    #israel3:hover {
+        margin: -9px 17px 0px 0px;
+        height: 310px;
+        display: inline-block;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+
+
+#israel4 {
+    margin: 0px 24px 0px 0px;
+    height: 290px;
+    display: inline-block;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+    #israel4:hover {
+        margin: -9px 17px 0px 0px;
+        height: 310px;
+        display: inline-block;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+
+/*פרויקט תקשורת חזותית*/
+#noharbck {
+    background-color: #9EBC5C;
+    width: 1381px;
+    height: 703px;
+    margin: 0px -211px 0px 0px;
+}
+
+#nohar_white {
+    background-color: white;
+    width: 1001px;
+    height: 346px;
+    margin: 32px 187px 0px 0px;
+    padding-top: 14px;
+}
+#noharbck h1 {
+    font-size: 26pt;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#noharbck p {
+    font-size: 12pt;
+    color: white;
+    width: 741px;
+    padding-top: 20px;
+    padding-right: 206px;
+    padding-bottom: 0px;
+    text-align: justify;
+    margin: 0px 100px 0px 0px;
+}
+#nohar {
+    margin: 0px 507px 0px 0px;
+    height: 331px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+    #nohar:hover {
+        margin: -5px 501px 0px 0px;
+        height: 341px;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+#video {
+    margin: -275px 27px 0px 0px;
+}
+
+
+/*אנימציה*/
+#animate {
+    background-color: #4D6D96;
+    width: 1381px;
+    height: 617px;
+    margin: 0px -211px 0px 0px;
+}
+
+#animate_white {
+    background-color: white;
+    width: 567px;
+    height: 356px;
+    margin: 30px 422px 0px 0px;
+}
+
+    #animate h1 {
+        font-size: 26pt;
+        color: white;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    #animate p {
+        font-size: 12pt;
+        color: white;
+        width: 400px;
+        text-align: center;
+        padding-top: 20px;
+        padding-right: 500px;
+        padding-bottom: 0px;
+        margin: 0px 0px;
+    }
+
+
+
+
+#baloon {
+    height: 330px;
+    margin: 12px 55px 0px 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+
+    #baloon:hover {
+        height: 350px;
+    margin: 3px 40px 0px 0px;        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+
+
+
+/*פרוטרט עצמי*/
+#portrait_bck {
+    background-color: #935D76;
+    width: 1381px;
+    height: 617px;
+    margin: 0px -211px 0px 0px;
+}
+
+    #portrait_bck h1 {
+        font-size: 26pt;
+        color: white;
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    #portrait_bck p {
+        font-size: 12pt;
+        color: white;
+        width: 600px;
+        text-align: justify;
+        padding-top: 20px;
+        padding-right: 500px;
+        padding-bottom: 0px;
+        margin: 0px -135px;
+    }
+
+#portrait {
+    height: 300px;
+    margin: 25px 54px 0px 0px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+    #portrait:hover {
+        height: 330px;
+        margin: 10px 15px 0px 0px;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        transition: all 1s ease;
+    }
+
+#portrait_white {
+    background-color: white;
+    width: 900px;
+    height: 350px;
+    margin: 30px 230px 0px 0px;
+}
