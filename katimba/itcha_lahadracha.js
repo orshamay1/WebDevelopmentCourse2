@@ -2655,13 +2655,10 @@ p.nominalBounds = new cjs.Rectangle(0,0,82.1,82.1);
 			self.b9.gotoAndStop(1);
 		}
 		function ye1_MouseOut() {
-			if (status == "click1") {
-				self.ye1.gotoAndStop(1);
-			} else {
-				self.ye1.gotoAndStop(0);
+					self.ye1.gotoAndStop(0);
 				self.b6.gotoAndStop(0);
 				self.b9.gotoAndStop(0);
-			}
+			
 		}
 		
 		function ye2_MouseOver() {
@@ -2671,13 +2668,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,82.1,82.1);
 			self.b12.gotoAndStop(1);
 		}
 		function ye2_MouseOut() {
-			if (status == "click1") {
-				self.ye2.gotoAndStop(1);
-			} else {
+			
 				self.ye2.gotoAndStop(0);
 				self.b1.gotoAndStop(0);
 				self.b12.gotoAndStop(0);
-			}
+			
 		}
 		
 		function ye3_MouseOver() {
@@ -2687,13 +2682,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,82.1,82.1);
 			self.b8.gotoAndStop(1);
 		}
 		function ye3_MouseOut() {
-			if (status == "click1") {
-				self.ye3.gotoAndStop(1);
-			} else {
+			
 				self.ye3.gotoAndStop(0);
 				self.b11.gotoAndStop(0);
 				self.b8.gotoAndStop(0);
-			}
+		
 		}
 		
 		function ye4_MouseOver() {
@@ -2703,13 +2696,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,82.1,82.1);
 			self.b2.gotoAndStop(1);
 		}
 		function ye4_MouseOut() {
-			if (status == "click1") {
-				self.ye4.gotoAndStop(1);
-			} else {
+			
 				self.ye4.gotoAndStop(0);
 				self.b5.gotoAndStop(0);
 				self.b2.gotoAndStop(0);
-			}
+			
 		}
 		
 		function ye5_MouseOver() {
@@ -2719,13 +2710,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,82.1,82.1);
 			self.b3.gotoAndStop(1);
 		}
 		function ye5_MouseOut() {
-			if (status == "click1") {
-				self.ye5.gotoAndStop(1);
-			} else {
+			
 				self.ye5.gotoAndStop(0);
 				self.b10.gotoAndStop(0);
 				self.b3.gotoAndStop(0);
-			}
+			
 		}
 		
 		function ye6_MouseOver() {
@@ -2735,13 +2724,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,82.1,82.1);
 			self.b4.gotoAndStop(1);
 		}
 		function ye6_MouseOut() {
-			if (status == "click1") {
-				self.ye6.gotoAndStop(1);
-			} else {
+			
 				self.ye6.gotoAndStop(0);
 				self.b7.gotoAndStop(0);
 				self.b4.gotoAndStop(0);
-			}
+			
 		}
 	}
 
